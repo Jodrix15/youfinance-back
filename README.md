@@ -109,3 +109,7 @@ La configuración de Render está en `render.yaml`. Los secretos no se suben al 
 - Modelo entidad-relación: [`docs/modelo_er.mermaid`](docs/modelo_er.mermaid)
 - Guía de seguridad: [`SECURITY_GUIDE.md`](SECURITY_GUIDE.md)
 - Apuntes de controllers en Spring: [`docs/apuntes_spring_controllers.html`](docs/apuntes_spring_controllers.html)
+
+---
+
+🤖 Desarrollado con ayuda de [Claude](https://claude.ai) como asistente de programación.
